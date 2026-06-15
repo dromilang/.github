@@ -7,7 +7,5 @@ Un linguaggio di programmazione semplice e moderno.
 - [Dromi](https://github.com/dromilang/Dromi)
 - [Sito Web](https://github.com/dromilang/dromilang.github.io)
 - [Dromi Pip zips](https://github.com/dromilang/DromiPip)
-- [Snode](https://github.com/dromilang/snode/tree/main)
-- [Sito Snode](https://github.com/dromilang/snode-project)
 
 _(Eplora il nostro sito - [dromilang.github.io](https://dromilang.github.io))_
